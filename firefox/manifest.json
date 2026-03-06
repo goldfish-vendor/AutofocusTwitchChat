@@ -22,10 +22,10 @@
             "48": "icons/icon48.png"
         }
     },
-    "applications": {
+    "browser_specific_settings": {
     "gecko": {
         "id": "autofocustwitchchat@goldfish_vendor"
     }
     }
-    
+
 }
