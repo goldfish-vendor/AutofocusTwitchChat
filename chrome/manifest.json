@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Auto-focus Chat for Twitch",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Auto-focus Twitch chat input when clicking outside the video.",
     "icons": {
         "16": "src/icons/icon16.png",
