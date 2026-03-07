@@ -43,6 +43,8 @@
     document.addEventListener("click",(e) => {
       if (e.defaultPrevented) return;
 
+      if (e.ctrlKey || e.metaKey) return; // because twitch hates firefox and so do i
+
       const t = e.target;
       if (!t) return;
 
