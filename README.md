@@ -5,6 +5,7 @@ Automatically focuses the Twitch chat input when clicking outside the video play
 ## Features
 
 - Click anywhere and start typing in chat
+- Hold Ctrl/Cmd to avoid focusing chat
 - Does not interfere with Twitch video shortcuts
 - Lightweight and simple
 
